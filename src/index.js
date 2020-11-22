@@ -1,8 +1,8 @@
-(function() {
+(function () {
   var global = global || this || window || Function('return this')();
-  var nx = global.nx || require('@feizheng/next-js-core2');
+  var nx = global.nx || require('@jswork/next');
 
-  nx.domFindAncestor = function(inElement, inSelector) {
+  nx.domFindAncestor = function (inElement, inSelector) {
     var element = inElement;
     while (
       (element = element.parentElement) &&
