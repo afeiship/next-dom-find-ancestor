@@ -3,7 +3,7 @@
  * description: Find the closest ancestor element that has a specific class.
  * homepage: https://github.com/afeiship/next-dom-find-ancestor
  * version: 1.0.0
- * date: 2020-11-22 17:41:30
+ * date: 2020-11-22 17:45:38
  * license: MIT
  */
 
